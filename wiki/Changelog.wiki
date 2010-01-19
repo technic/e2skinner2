@@ -1,2 +1,4 @@
 --- 2.0.1.0 ---
- * Fix: Fonts were searched at the wrong place
+ * Fix: Fonts were searched at the wrong place.
+ * Fix: "300, 300" as position value is now also parsed correctly.
+ * New: Support for center, center in Windows.
