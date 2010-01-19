@@ -1,0 +1,2 @@
+--- 2.0.1.0 ---
+ * Fix: Fonts were searched at the wrong place
