@@ -1,3 +1,6 @@
+--- 2.0.1.9 ---
+ * New: Enhanced XML Editor, with line numbers + Syntax-highlighting
+
 --- 2.0.1.5 ---
  * Fix: "center" is now diplayed properly in PropertyGrid.
 
