@@ -1,3 +1,10 @@
+--- 2.0.3.0 ---
+ * Fix: Border-styles are again correctly displayed
+ * New: Full-Screen mode: Enter and Leave by pressing F11
+ * New: Background-Image support: background.jpg in skins folder
+ * New: Full support of alpha blending
+ * Fix: Some general fixes
+
 --- 2.0.2.6 ---
  * Fix: Better font error messages
 
@@ -10,9 +17,9 @@
  * New: Enhanced XML Editor, with line numbers + Syntax-highlighting
 
 --- 2.0.1.5 ---
- * Fix: "center" is now diplayed properly in PropertyGrid.
+ * Fix: "center" is now diplayed properly in PropertyGrid
 
 --- 2.0.1.0 ---
- * Fix: Fonts were searched at the wrong place.
- * Fix: "300, 300" as position value is now also parsed correctly.
- * New: Support for center, center in Windows.
+ * Fix: Fonts were searched at the wrong place
+ * Fix: "300, 300" as position value is now also parsed correctly
+ * New: Support for center, center in Windows
