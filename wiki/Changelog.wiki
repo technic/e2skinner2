@@ -1,3 +1,8 @@
+--- 2.0.2.5 ---
+ * Fix: Center is now also parsed correctly in PropertyGrid
+ * New: Mouse-Support: Elements can be oved by pressing LEFT KEY
+ * New: Keyboard-Support: Elements can be moved by useing the Cursor Key, Margin is 5pixel, for 1pixel margin press CTRL
+
 --- 2.0.1.9 ---
  * New: Enhanced XML Editor, with line numbers + Syntax-highlighting
 
