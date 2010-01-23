@@ -1,3 +1,6 @@
+--- 2.0.2.6 ---
+ * Fix: Better font error messages
+
 --- 2.0.2.5 ---
  * Fix: Center is now also parsed correctly in PropertyGrid
  * New: Mouse-Support: Elements can be oved by pressing LEFT KEY
