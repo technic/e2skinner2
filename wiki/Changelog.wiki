@@ -1,7 +1,6 @@
 --- 2.0.3.5 ---
- * New: Widget Sources are now saved in an external xml xml/converter.xml
- * New: Widget Label text can now be configured in an external xml
-xml/previewText.xml
+ * New: Widget Sources are now saved in an external xml (xml/converter.xml)
+ * New: Widget Label text can now be configured in an external xml (xml/previewText.xml)
  * New: First Draft of an Preview-Fullscreen mode, F10
  * New: Alpha mode can by deactivated (Button Alpha in Toolbar)
  * Fix: Label noWrap works now correctly
