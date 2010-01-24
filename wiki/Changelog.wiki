@@ -1,3 +1,12 @@
+--- 2.0.3.5 ---
+* New: Widget Sources are now saved in an external xml xml/converter.xml
+ * New: Widget Label text can now be configured in an external xml
+xml/previewText.xml
+ * New: First Draft of an Preview-Fullscreen mode, F10
+ * New: Alpha mode can by deactivated (Button Alpha in Toolbar)
+ * Fix: Label noWrap works now correctly
+ * Fix: Some general bugfixes
+
 --- 2.0.3.0 ---
  * Fix: Border-styles are again correctly displayed
  * New: Full-Screen mode: Enter and Leave by pressing F11
