@@ -1,7 +1,10 @@
 --- 2.0.5.0 ---
- * New: Undo - Redo functionality
+ * New: Undo - Redo functionality for Designer (Not for the Editor!)
+ * New: Allow manual reloading of Converters (Settings->Reload converter.xml)
+ * Better: In Designer a right click will always select the parent screen
  * Better: Color-Window reworked
  * Fix: Now possible to change the border of an element
+ * Fix: Now possible to change the font of an element
 
 ...
 
