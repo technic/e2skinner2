@@ -5,6 +5,7 @@
  * Better: Color-Window reworked
  * Fix: Now possible to change the border of an element
  * Fix: Now possible to change the font of an element
+ * Fix: XML Editor should work now!
 
 ...
 
